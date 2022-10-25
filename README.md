@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyrikoni, a student at Northcoders
+- 👋 Hi, I’m @kyrikoni, a student at [Northcoders](https://github.com/northcoders)
 - 👀 I’m interested in learning how to code and to become a software developer
 - 🌱 I’m currently learning Javascript, HTML and CSS
 - 📫 You can reach me on GitHub at [@kyrikoni](https://github.com/kyrikoni)
